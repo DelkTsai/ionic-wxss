@@ -1,0 +1,9 @@
+<view class="content padding">
+	<view class="h1">I'm an H1!</view>
+	<view class="h2">I'm an H2!</view>
+	<view class="h3">I'm an H3!</view>
+	<view class="h4">I'm an H4!</view>
+	<view class="h5">I'm an H5!</view>
+	<view class="h6">I'm an H6!</view>
+	<view class="p">I'm a paragraph!</view>
+</view>

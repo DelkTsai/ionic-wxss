@@ -1,0 +1,16 @@
+<view class="bar bar-header {{ colors[index] }}">
+	<view class="h1 title">Header</view>
+</view>
+
+<view class="content has-header">
+	<view class="list">
+		<view class="item item-input item-select">
+			<view class="input-label">
+				颜色选项
+			</view>
+			<picker bindchange="bindChange" value="{{ index}}" range="{{ colors }}">
+                <view class="select">{{ colors[index] }}</view>
+            </picker>
+		</view>
+	</view>
+</view>

@@ -1,0 +1,17 @@
+<view class="bar bar-header">
+	<view class="h1 title">Left Icon Tabs</view>
+</view>
+<view class="tabs tabs-icon-left">
+	<view class="tab-item active">
+		<text class="icon ion-home"></text>
+		Home
+	</view>
+	<view class="tab-item">
+		<text class="icon ion-star"></text>
+		Favorites
+	</view>
+	<view class="tab-item">
+		<text class="icon ion-gear-a"></text>
+		Settings
+	</view>
+</view>

@@ -1,0 +1,6 @@
+<view class="ezpop padding">
+	<button class="button button-block button-calm" bindtap="retain">retain</button>
+	<button class="button button-block button-calm" bindtap="release">release</button>
+</view>
+
+<div class="backdrop"></div>

@@ -1,0 +1,12 @@
+<view class="content">
+	<view class="list">
+		<view class="item item-input item-select {{ item.cls }}" wx:for="{{ items }}" wx:key="">
+			<view class="input-label">
+				{{ item.name }}
+			</view>
+			<picker bindchange="bindCountryChange" value="{{ countryIndex}}" range="{{ countries }}">
+                <view class="select">{{ countries[countryIndex] }}</view>
+            </picker>
+		</view>
+	</view>
+</view>

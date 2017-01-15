@@ -1,0 +1,15 @@
+<view class="backdrop visible active"></view>
+<view class="popup-container popup-showing active">
+	<view class="popup">
+		<view class="popup-head">
+			<view class="h3 popup-title">定制冰激凌</view>
+		</view>
+		<view class="popup-body">
+			<text>你确定要吃我的冰淇淋吗？</text>
+		</view>
+		<view class="popup-buttons">
+			<button bindtap="$buttonTapped" class="button button-default">Cancel</button>
+			<button bindtap="$buttonTapped" class="button button-positive">OK</button>
+		</view>
+	</view>
+</view>

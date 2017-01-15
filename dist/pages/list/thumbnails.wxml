@@ -1,0 +1,19 @@
+<view class="content">
+	<view class="list">		
+        <view class="a item item-thumbnail-left">
+			<image src="http://ionicframework.com/img/docs/blue-album.jpg" />
+			<view class="h2">Weezer</view>
+			<view class="p">Blue Album</view>
+        </view>
+        <view class="a item item-thumbnail-left">
+			<image src="http://ionicframework.com/img/docs/blue-album.jpg" />
+			<view class="h2">Weezer</view>
+			<view class="p">Blue Album</view>
+        </view>
+        <view class="a item item-thumbnail-left">
+			<image src="http://ionicframework.com/img/docs/blue-album.jpg" />
+			<view class="h2">Weezer</view>
+			<view class="p">Blue Album</view>
+        </view>
+	</view>
+</view>

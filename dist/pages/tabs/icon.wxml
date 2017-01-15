@@ -1,0 +1,15 @@
+<view class="bar bar-header">
+	<view class="h1 title">Icon-only Tabs</view>
+</view>
+
+<view class="tabs tabs-icon-only">
+	<view class="tab-item">
+		<text class="icon ion-home"></text>
+	</view>
+	<view class="tab-item">
+		<text class="icon ion-star"></text>
+	</view>
+	<view class="tab-item active">
+		<text class="icon ion-gear-a"></text>
+	</view>
+</view>

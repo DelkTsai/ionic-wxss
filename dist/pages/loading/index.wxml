@@ -1,0 +1,6 @@
+<view class="backdrop visible backdrop-loading active"></view>
+<view class="loading-container visible active">
+	<view class="loading">
+		<text>正在载入数据，请稍后...</text>
+	</view>
+</view>

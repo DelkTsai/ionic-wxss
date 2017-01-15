@@ -1,0 +1,25 @@
+<view class="content">
+	<view class="list">
+		<view class="item item-icon-left">
+			<text class="icon ion-email"></text>
+				Check mail
+		</view>
+		<view class="item item-icon-left item-icon-right">
+			<text class="icon ion-chatbubble-working"></text>
+				Call Ma
+			<text class="icon ion-ios-telephone-outline"></text>
+		</view>
+		<view class="item item-icon-left">
+			<text class="icon ion-mic-a"></text>
+				Record album
+			<text class="item-note">
+				Grammy
+			</text>
+		</view>
+		<view class="item item-icon-left">
+			<text class="icon ion-person-stalker"></text>
+				Friends
+			<text class="badge badge-assertive">0</text>
+		</view>
+	</view>
+</view>

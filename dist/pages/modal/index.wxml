@@ -1,0 +1,17 @@
+<view class="modal-backdrop active">
+	<view class="modal-backdrop-bg">
+	</view>
+	<view class="modal-wrapper">
+		<view class="modal slide-in-up ng-enter active ng-enter-active">
+			<view class="bar-energized bar bar-header disable-user-behavior">
+				<view class="h1 title">ion-modal-view</view>
+				<button class="button" bindtap="closeModal">关闭</button>
+			</view>
+			<view class="scroll-content ionic-scroll has-header">
+				<view class="scroll">
+						Hello!
+				</view>
+			</view>
+		</view>
+	</view>
+</view>

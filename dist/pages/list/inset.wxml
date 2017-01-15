@@ -1,0 +1,16 @@
+<view class="content">
+	<view class="list list-inset">
+		<view class="item">
+			Raiders of the Lost Ark
+		</view>
+		<view class="item">
+			Temple of Doom
+		</view>
+		<view class="item">
+			Last Crusade
+		</view>
+		<view class="item">
+			Kingdom of the Crystal Skull
+		</view>
+	</view>
+</view>

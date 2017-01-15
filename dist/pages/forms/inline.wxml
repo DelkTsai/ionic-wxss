@@ -1,0 +1,15 @@
+<view class="content">
+	<view class="list">
+		<label class="item item-input">
+			<text class="input-label">Username</text>
+			<input type="text" />
+		</label>
+		<label class="item item-input">
+			<text class="input-label">Password</text>
+			<input type="text" />
+		</label>
+	</view>
+	<view class="padding">
+		<button class="button button-block button-positive">Submit</button>
+	</view>
+</view>

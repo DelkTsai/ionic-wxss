@@ -1,0 +1,20 @@
+<view class="content">
+	<view class="list card">
+		<view class="item item-icon-left">
+			<text class="icon ion-home"></text>
+			Enter home address
+		</view>
+		<view class="item item-icon-left">
+			<text class="icon ion-ios-telephone"></text>
+			Enter phone number
+		</view>
+		<view class="item item-icon-left">
+			<text class="icon ion-wifi"></text>
+			Enter wireless password
+		</view>
+		<view class="item item-icon-left">
+			<text class="icon ion-card"></text>
+			Enter card information
+		</view>
+	</view>
+</view>

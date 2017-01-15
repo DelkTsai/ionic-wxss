@@ -1,0 +1,13 @@
+<view class="content">
+	<view class="list">
+		<checkbox-group bindchange="checkboxChange">
+			<label class="item item-checkbox" wx:for="{{ items }}" wx:key="">
+				<view class="checkbox {{ item.cls }} {{ item.checked ? 'checked' : '' }}">
+					<checkbox value="{{ item.name }}" checked="{{ item.checked }}" />
+					<text class="checkbox-icon"></text>
+				</view>
+				{{ item.value }}
+			</label>
+		</checkbox-group>
+	</view>
+</view>

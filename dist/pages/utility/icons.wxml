@@ -1,0 +1,88 @@
+<view class="content padding">
+	<view class="ionicons-demo">
+		<view class="ion-ionic" data-pack="default" data-tags="badass, framework, sexy, hawt"></view>
+		<view class="ion-arrow-up-a" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-right-a" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-down-a" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-left-a" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-up-b" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-right-b" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-down-b" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-left-b" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-up-c" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-right-c" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-down-c" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-left-c" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-return-right" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-return-left" data-pack="default" data-tags=""></view>
+		<view class="ion-arrow-swap" data-pack="default" data-tags="switch, flip"></view>
+		<view class="ion-arrow-shrink" data-pack="default" data-tags="pinch"></view>
+		<view class="ion-arrow-expand" data-pack="default" data-tags="fullscreen"></view>
+		<view class="ion-arrow-move" data-pack="default" data-tags="drag"></view>
+		<view class="ion-arrow-resize" data-pack="default" data-tags="drag"></view>
+		<view class="ion-chevron-up" data-pack="default" data-tags="arrow, up"></view>
+		<view class="ion-chevron-right" data-pack="default" data-tags="arrow, right"></view>
+		<view class="ion-chevron-down" data-pack="default" data-tags="arrow, down"></view>
+		<view class="ion-chevron-left" data-pack="default" data-tags="arrow, left"></view>
+		<view class="ion-log-in" data-pack="default" data-tags="sign in, "></view>
+		<view class="ion-log-out" data-pack="default" data-tags="sign out"></view>
+		<view class="ion-checkmark-round" data-pack="default" data-tags="complete, finished, success, on"></view>
+		<view class="ion-checkmark" data-pack="default" data-tags="complete, finished, success, on"></view>
+		<view class="ion-checkmark-circled" data-pack="default" data-tags="complete, finished, success, on"></view>
+		<view class="ion-close-round" data-pack="default" data-tags="delete, trash, kill, x"></view>
+		<view class="ion-close" data-pack="default" data-tags="delete, trash, kill, x"></view>
+		<view class="ion-close-circled" data-pack="default" data-tags="delete, trash, kill, x"></view>
+		<view class="ion-plus-round" data-pack="default" data-tags="add, include, new, invite, +"></view>
+		<view class="ion-plus" data-pack="default" data-tags="add, include, new, invite, +"></view>
+		<view class="ion-plus-circled" data-pack="default" data-tags="add, include, new, invite, +"></view>
+		<view class="ion-minus-round" data-pack="default" data-tags="hide, remove, minimize, -"></view>
+		<view class="ion-minus" data-pack="default" data-tags="hide, remove, minimize, -"></view>
+		<view class="ion-minus-circled" data-pack="default" data-tags="hide, remove, minimize, -"></view>
+		<view class="ion-information" data-pack="default" data-tags="help, more, tooltip"></view>
+		<view class="ion-information-circled" data-pack="default" data-tags="help, more, tooltip"></view>
+		<view class="ion-help" data-pack="default" data-tags="question, ?"></view>
+		<view class="ion-help-circled" data-pack="default" data-tags="question, ?"></view>
+		<view class="ion-help-buoy" data-pack="default" data-tags="question, ?"></view>
+		<view class="ion-alert" data-pack="default" data-tags="attention, warning, notice, !, exclamation"></view>
+		<view class="ion-alert-circled" data-pack="default" data-tags="attention, warning, notice, !, exclamation"></view>
+		<view class="ion-refresh" data-pack="default" data-tags="reload, renew"></view>
+		<view class="ion-loop" data-pack="default" data-tags="refresh"></view>
+		<view class="ion-shuffle" data-pack="default" data-tags="random"></view>
+		<view class="ion-home" data-pack="default" data-tags="house"></view>
+		<view class="ion-search" data-pack="default" data-tags="magnifying glass"></view>
+		<view class="ion-flag" data-pack="default" data-tags="favorite, mark, star"></view>
+		<view class="ion-star" data-pack="default" data-tags="favorite"></view>
+		<view class="ion-heart" data-pack="default" data-tags="love"></view>
+		<view class="ion-gear-a" data-pack="default" data-tags="settings, options, cog"></view>
+		<view class="ion-gear-b" data-pack="default" data-tags="settings, options, cog"></view>
+		<view class="ion-settings" data-pack="default" data-tags="options, tools"></view>
+		<view class="ion-wrench" data-pack="default" data-tags="settings, options, tools"></view>
+		<view class="ion-hammer" data-pack="default" data-tags="settings, options, tools"></view>
+		<view class="ion-trash-a" data-pack="default" data-tags="delete, remove, dump"></view>
+		<view class="ion-trash-b" data-pack="default" data-tags="delete, remove, dump"></view>
+		<view class="ion-navicon-round" data-pack="default" data-tags="menu, hamburger, slide menu"></view>
+		<view class="ion-navicon" data-pack="default" data-tags="menu, hamburger, slide menu"></view>
+		<view class="ion-drag" data-pack="default" data-tags="reorder, move, drag"></view>
+		<view class="ion-document" data-pack="default" data-tags="paper, file"></view>
+		<view class="ion-document-text" data-pack="default" data-tags="paper, file"></view>
+		<view class="ion-clipboard" data-pack="default" data-tags="write"></view>
+		<view class="ion-bookmark" data-pack="default" data-tags="favorite, tag, save"></view>
+		<view class="ion-email" data-pack="default" data-tags="snail, mail"></view>
+		<view class="ion-folder" data-pack="default" data-tags="snail, mail"></view>
+		<view class="ion-filing" data-pack="default" data-tags="mail"></view>
+		<view class="ion-archive" data-pack="default" data-tags="mail"></view>
+		<view class="ion-reply" data-pack="default" data-tags="mail, undo"></view>
+		<view class="ion-reply-all" data-pack="default" data-tags="mail"></view>
+		<view class="ion-forward" data-pack="default" data-tags="mail, redo"></view>
+		<view class="ion-share" data-pack="default" data-tags="outbound"></view>
+		<view class="ion-link" data-pack="default" data-tags="chain, anchor, href, attach"></view>
+		<view class="ion-paperclip" data-pack="default" data-tags="attach"></view>
+		<view class="ion-compose" data-pack="default" data-tags="write, compose, type"></view>
+		<view class="ion-briefcase" data-pack="default" data-tags="store, organize"></view>
+		<view class="ion-medkit" data-pack="default" data-tags="health"></view>
+		<view class="ion-at" data-pack="default" data-tags="@"></view>
+		<view class="ion-pound" data-pack="default" data-tags="hashtag, #"></view>
+		<view class="ion-cloud" data-pack="default" data-tags="storage"></view>
+		<view class="ion-upload" data-pack="default" data-tags="storage, cloud"></view>
+	</view>
+</view>

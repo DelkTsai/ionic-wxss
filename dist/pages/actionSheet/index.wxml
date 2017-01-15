@@ -1,0 +1,17 @@
+<view class="action-sheet-backdrop active">
+	<view class="action-sheet-wrapper action-sheet-up">
+		<view class="action-sheet">
+			<view class="action-sheet-group action-sheet-options">
+				<view class="action-sheet-title">
+					操作当前文章
+				</view>
+				<button class="button action-sheet-option"><b>分享</b>文章</button>
+				<button class="button action-sheet-option">移动到...</button>
+				<button class="button destructive action-sheet-destructive">删除</button>
+			</view>
+			<view class="action-sheet-group action-sheet-cancel">
+				<button class="button">取消</button>
+			</view>
+		</view>
+	</view>
+</view>

@@ -1,0 +1,16 @@
+<view class="content">
+	<view class="list card">
+		<view class="item item-avatar">
+			<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Nine_Inch_Nails_logo.svg/220px-Nine_Inch_Nails_logo.svg.png" />
+			<view class="h2">Pretty Hate Machine</view>
+			<view class="p">Nine Inch Nails</view>
+		</view>
+		<view class="item item-image">
+			<image src="http://ecx.images-amazon.com/images/I/41D5vU4I1NL.jpg" />
+		</view>
+		<view class="item item-icon-left assertive">
+			<text class="icon ion-music-note"></text>
+			Start listening
+		</view>
+	</view>
+</view>

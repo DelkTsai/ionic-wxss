@@ -1,0 +1,129 @@
+<view class="row">
+	<view class="col">
+		<view class="col-demo">.col</view>
+	</view>
+	<view class="col">
+		<view class="col-demo">.col</view>
+	</view>
+	<view class="col">
+		<view class="col-demo">.col</view>
+	</view>
+	<view class="col">
+		<view class="col-demo">.col</view>
+	</view>
+	<view class="col">
+		<view class="col-demo">.col</view>
+	</view>
+</view>
+
+<view class="row">
+	<view class="col col-50"><view class="col-demo">.col.col-50</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+</view>
+
+<view class="row">
+	<view class="col col-75"><view class="col-demo">.col.col-75</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+</view>
+
+<view class="row">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col col-75"><view class="col-demo">.col.col-75</view></view>
+</view>
+
+<view class="row">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+</view>
+
+<view class="row">
+	<view class="col col-33 col-offset-33"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+</view>
+
+<view class="row">
+	<view class="col col-33"><view class="col-demo">.col</view></view>
+	<view class="col col-33 col-offset-33"><view class="col-demo">.col</view></view>
+</view>
+
+<view class="row">
+	<view class="col col-33 col-offset-67"><view class="col-demo">.col</view></view>
+</view>
+
+<view class="row">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col">
+		<view class="col-demo">
+			<view>1</view>
+			<view>2</view>
+			<view>3</view>
+			<view>4</view>
+		</view>
+	</view>
+</view>
+
+<view class="row">
+	<view class="col col-top"><view class="col-demo">.col</view></view>
+	<view class="col col-center"><view class="col-demo">.col</view></view>
+	<view class="col col-bottom"><view class="col-demo">.col</view></view>
+	<view class="col">
+		<view class="col-demo">
+			<view>1</view>
+			<view>2</view>
+			<view>3</view>
+			<view>4</view>
+		</view>
+	</view>
+</view>
+
+<view class="row row-top">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col">
+		<view class="col-demo">
+			<view>1</view>
+			<view>2</view>
+			<view>3</view>
+			<view>4</view>
+		</view>
+	</view>
+</view>
+
+<view class="row row-center">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col">
+		<view class="col-demo">
+			<view>1</view>
+			<view>2</view>
+			<view>3</view>
+			<view>4</view>
+		</view>
+	</view>
+</view>
+
+<view class="row row-bottom">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col">
+		<view class="col-demo">
+			<view>1</view>
+			<view>2</view>
+			<view>3</view>
+			<view>4</view>
+		</view>
+	</view>
+</view>
+
+<view class="row responsive-sm">
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+	<view class="col"><view class="col-demo">.col</view></view>
+</view>

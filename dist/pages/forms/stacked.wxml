@@ -1,0 +1,19 @@
+<view class="content">
+	<view class="list">
+		<label class="item item-input item-stacked-label">
+			<text class="input-label">First Name</text>
+			<input type="text" placeholder="John" />
+		</label>
+		<label class="item item-input item-stacked-label">
+			<text class="input-label">Last Name</text>
+			<input type="text" placeholder="Suhr" />
+		</label>
+		<label class="item item-input item-stacked-label">
+			<text class="input-label">Email</text>
+			<input type="text" placeholder="john@suhr.com" />
+		</label>
+	</view>
+	<view class="padding">
+		<button class="button button-block button-positive">Submit</button>
+	</view>
+</view>

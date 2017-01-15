@@ -1,0 +1,8 @@
+<view class="content">
+	<view class="list list-inset">
+		<label class="item item-input">
+			<text class="icon ion-search placeholder-icon"></text>
+			<input type="text" placeholder="Search" />
+		</label>
+	</view>
+</view>

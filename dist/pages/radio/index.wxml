@@ -1,0 +1,13 @@
+<view class="content">
+	<view class="list">
+		<radio-group bindchange="radioChange">
+			<label class="item item-radio {{ item.checked ? 'checked' : '' }}" wx:for="{{ items }}" wx:key="">
+				<radio value="{{ item.name }}" checked="{{ item.checked }}" />
+				<view class="radio-content">
+					<view class="item-content">{{ item.value }}</view>
+					<text class="radio-icon ion-checkmark"></text>
+				</view>
+			</label>
+		</radio-group>
+	</view>
+</view>

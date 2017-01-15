@@ -1,0 +1,12 @@
+<view class="page-content">
+	<block wx:for="{{ components }}" wx:for-item="component" wx:key="">
+		<view class="item item-divider">{{ component.title }}</view>
+		<view class="list list-after-divider thin-border">
+			<navigator url="{{ item.url }}" class="item item-icon-right" wx:for="{{ component.items }}" wx:key="">
+				{{ item.title }}
+				<text class="item-note">{{ item.remark }}</text>
+				<text class="icon ion-ios-arrow-right"></text>
+			</navigator>
+		</view>
+	</block>
+</view>

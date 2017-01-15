@@ -1,0 +1,19 @@
+<view class="content">
+	<view class="list">		
+        <view class="item item-avatar">
+			<image src="http://ionicframework.com/img/docs/venkman.jpg" />
+			<view class="h2">Venkman</view>
+			<view class="p">Back off, man. I'm a scientist.</view>
+        </view>
+        <view class="item item-avatar">
+			<image src="http://ionicframework.com/img/docs/venkman.jpg" />
+			<view class="h2">Venkman</view>
+			<view class="p">Back off, man. I'm a scientist.</view>
+        </view>
+        <view class="item item-avatar">
+			<image src="http://ionicframework.com/img/docs/venkman.jpg" />
+			<view class="h2">Venkman</view>
+			<view class="p">Back off, man. I'm a scientist.</view>
+        </view>
+	</view>
+</view>

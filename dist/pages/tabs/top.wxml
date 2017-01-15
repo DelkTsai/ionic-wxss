@@ -1,0 +1,18 @@
+<view class="bar bar-header">
+	<view class="h1 title">Top Icon Tabs</view>
+</view>
+<view class="tabs tabs-icon-top">
+	<view class="tab-item active">
+		<text class="icon ion-ios-chatbubble"></text>
+		通信录
+	</view>
+	<view class="tab-item">
+		<text class="icon ion-ios-eye"></text>
+		发现
+		<i class="badge badge-assertive">12</i>
+	</view>
+	<view class="tab-item">
+		<text class="icon ion-ios-person"></text>
+		我
+	</view>
+</view>

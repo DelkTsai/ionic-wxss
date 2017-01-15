@@ -1,0 +1,7 @@
+.ezpop {
+    position: absolute;
+    z-index: 100;
+    width: 200px;
+    left: 50%;
+    margin-left: -100px;
+}

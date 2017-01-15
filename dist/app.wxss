@@ -1,0 +1,2 @@
+@import 'ionic.app.wxss';
+@import 'extend.wxss';

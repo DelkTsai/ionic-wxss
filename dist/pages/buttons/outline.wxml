@@ -1,0 +1,11 @@
+<view class="content padding">
+	<button class="button button-outline button-light">button-light</button>
+	<button class="button button-outline button-stable">button-stable</button>
+	<button class="button button-outline button-positive">button-positive</button>
+	<button class="button button-outline button-calm">button-calm</button>
+	<button class="button button-outline button-balanced">button-balanced</button>
+	<button class="button button-outline button-energized">button-energized</button>
+	<button class="button button-outline button-assertive">button-assertive</button>
+	<button class="button button-outline button-royal">button-royal</button>
+	<button class="button button-outline button-dark">button-dark</button>
+</view>

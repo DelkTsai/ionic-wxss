@@ -1,0 +1,15 @@
+.ionicons-demo {
+	text-align: center;	
+}
+
+.ionicons-demo view {
+    display: inline-block;
+    padding: 2px;
+    font-size: 32px;
+}
+
+.ionicons-demo view:before {
+    display: block;
+    width: 42px;
+    text-align: center;
+}

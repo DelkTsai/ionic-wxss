@@ -1,0 +1,35 @@
+<view class="bar bar-header has-tabs-top bar-positive">
+	<view class="h1 title">Striped Style Tabs</view>
+</view>
+<view class="tabs-striped tabs-top tabs-background-positive tabs-color-light">
+	<view class="tabs">
+		<view class="tab-item active">
+			<text class="icon ion-home"></text>
+			Test
+		</view>
+		<view class="tab-item">
+			<text class="icon ion-star"></text>
+			Favorites
+		</view>
+		<view class="tab-item">
+			<text class="icon ion-gear-a"></text>
+			Settings
+		</view>
+	</view>
+</view>
+<view class="tabs-striped tabs-color-assertive">
+	<view class="tabs">
+		<view class="tab-item active">
+			<text class="icon ion-home"></text>
+			Test
+		</view>
+		<view class="tab-item">
+			<text class="icon ion-star"></text>
+			Favorites
+		</view>
+		<view class="tab-item">
+			<text class="icon ion-gear-a"></text>
+			Settings
+		</view>
+	</view>
+</view>

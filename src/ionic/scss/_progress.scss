@@ -1,0 +1,15 @@
+
+/**
+ * Progress
+ * --------------------------------------------------
+ */
+
+progress {
+  display: block;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  margin: $progress-margin;
+  width: $progress-width;
+}

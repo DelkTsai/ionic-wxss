@@ -1,0 +1,4 @@
+.item radio {
+	position: absolute;
+	left: -9999px;
+}

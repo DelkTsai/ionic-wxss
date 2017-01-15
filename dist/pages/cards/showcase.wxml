@@ -1,0 +1,21 @@
+<view class="content">
+	<view class="list card">
+		<view class="item item-avatar">
+			<image src="http://ionicframework.com/img/docs/mcfly.jpg" />
+			<view class="h2">Marty McFly</view>
+			<view class="p">November 05, 1955</view>
+		</view>
+		<view class="item item-body">
+			<image class="full-image" src="http://ionicframework.com/img/docs/delorean.jpg" />
+			<view class="p">
+			This is a "Facebook" styled Card. The header is created from a Thumbnail List item,
+			the content is from a card-body consisting of an image and paragraph text. The footer
+			consists of a tabs, icons aligned left, within the card-footer.
+			</view>
+			<view class="p">
+				<text class="a subdued">1 Like</text>
+				<text class="a subdued">5 Comments</text>
+			</view>
+		</view>
+	</view>
+</view>

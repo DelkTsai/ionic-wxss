@@ -1,0 +1,9 @@
+<view class="content padding">
+	<view class="padding-example">
+		<view></view>
+	</view>
+	<view style="margin:0 24px">
+		The gray square represents an element, and the blue square represents
+		the element's content when <code>padding</code> has been applied.
+	</view>
+</view>

@@ -1,0 +1,40 @@
+<view class="content">
+	<view class="list color-list-demo">
+		<view class="item dark">
+			light
+			<text class="color-demo light-bg light-border"></text>
+		</view>
+		<view class="item stable-dark">
+			stable
+			<text class="color-demo stable-bg stable-border"></text>
+		</view>
+		<view class="item positive">
+			positive
+			<text class="color-demo positive-bg positive-border"></text>
+		</view>
+		<view class="item calm">
+			calm
+			<text class="color-demo calm-bg calm-border"></text>
+		</view>
+		<view class="item balanced">
+			balanced
+			<text class="color-demo balanced-bg balanced-border"></text>
+		</view>
+		<view class="item energized">
+			energized
+			<text class="color-demo energized-bg energized-border"></text>
+		</view>
+		<view class="item assertive">
+			assertive
+			<text class="color-demo assertive-bg assertive-border"></text>
+		</view>
+		<view class="item royal">
+			royal
+			<text class="color-demo royal-bg royal-border"></text>
+		</view>
+		<view class="item dark">
+			dark
+			<text class="color-demo dark-bg dark-border"></text>
+		</view>
+	</view>
+</view>

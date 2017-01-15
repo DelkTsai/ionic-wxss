@@ -1,0 +1,57 @@
+<view class="content">
+	<view class="range">
+		<text class="icon ion-volume-low"></text>
+		<slider min="0" max="100" color="#e9e9e9" selected-color="#1aad19" />
+		<text class="icon ion-volume-high"></text>
+	</view>
+	<view class="list">
+		<view class="item item-divider">
+			Ranges In A List
+		</view>
+		<view class="item range range-light">
+			<text class="icon ion-ios-glasses-outline"></text>
+			<slider min="0" max="100" value="12" color="#e9e9e9" selected-color="#ddd" />
+			<text class="icon ion-ios-glasses"></text>
+		</view>
+		<view class="item range range-stable">
+			<text class="icon ion-ios-musical-note"></text>
+			<slider min="0" max="100" value="12" color="#e9e9e9" selected-color="#b2b2b2" />
+			<text class="icon ion-ios-musical-notes"></text>
+		</view>
+		<view class="item range range-positive">
+			<text class="icon ion-ios-sunny-outline"></text>
+			<slider min="0" max="100" value="12" color="#e9e9e9" selected-color="#387ef5" />
+			<text class="icon ion-ios-sunny"></text>
+		</view>
+		<view class="item range range-calm">
+			<text class="icon ion-ios-lightbulb-outline"></text>
+			<slider min="0" max="100" value="25" color="#e9e9e9" selected-color="#11c1f3" />
+			<text class="icon ion-ios-lightbulb"></text>
+		</view>
+		<view class="item range range-balanced">
+			<text class="icon ion-ios-bolt-outline"></text>
+			<slider min="0" max="100" value="38" color="#e9e9e9" selected-color="#33cd5f" />
+			<text class="icon ion-ios-bolt"></text>
+		</view>
+		<view class="item range range-assertive">
+			<text class="icon ion-ios-fastforward-outline"></text>
+			<slider min="0" max="100" value="38" color="#e9e9e9" selected-color="#ef473a" />
+			<text class="icon ion-ios-fastforward"></text>
+		</view>
+		<view class="item range range-energized">
+			<text class="icon ion-ios-moon-outline"></text>
+			<slider min="0" max="100" value="50" color="#e9e9e9" selected-color="#ffc900" />
+			<text class="icon ion-ios-moon"></text>
+		</view>
+		<view class="item range range-royal">
+			<text class="icon ion-ios-rainy-outline"></text>
+			<slider min="0" max="100" value="75" color="#e9e9e9" selected-color="#886aea" />
+			<text class="icon ion-ios-rainy"></text>
+		</view>
+		<view class="item range range-dark">
+			<text class="icon ion-ios-bell-outline"></text>
+			<slider min="0" max="100" value="88" color="#e9e9e9" selected-color="#444" />
+			<text class="icon ion-ios-bell"></text>
+		</view>
+	</view>
+</view>

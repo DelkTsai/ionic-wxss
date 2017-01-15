@@ -1,0 +1,19 @@
+<view class="content">
+	<view class="list">
+		<label class="item item-input item-floating-label">
+			<text class="input-label {{ form.firstName ? 'has-input' : '' }}">First Name</text>
+			<input data-model="form.firstName" bindinput="bindinput" type="text" placeholder="First Name" />
+		</label>
+		<label class="item item-input item-floating-label">
+			<text class="input-label {{ form.lastName ? 'has-input' : '' }}">Last Name</text>
+			<input data-model="form.lastName" bindinput="bindinput" type="text" placeholder="Last Name" />
+		</label>
+		<label class="item item-input item-floating-label">
+			<text class="input-label {{ form.email ? 'has-input' : '' }}">Email</text>
+			<input data-model="form.email" bindinput="bindinput" type="text" placeholder="Email" />
+		</label>
+	</view>
+	<view class="padding">
+		<button class="button button-block button-positive">Submit</button>
+	</view>
+</view>

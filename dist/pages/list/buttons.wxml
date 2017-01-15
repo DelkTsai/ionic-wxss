@@ -1,0 +1,22 @@
+<view class="content">
+	<view class="list">		
+		<view class="item item-button-right">
+			Call Ma
+			<button class="button button-positive">
+				<text class="icon ion-ios-telephone"></text>
+			</button>
+        </view>
+        <view class="item item-button-right">
+			Call Ma
+			<button class="button button-positive">
+				<text class="icon ion-ios-telephone"></text>
+			</button>
+        </view>
+        <view class="item item-button-right">
+			Call Ma
+			<button class="button button-positive">
+				<text class="icon ion-ios-telephone"></text>
+			</button>
+        </view>
+	</view>
+</view>

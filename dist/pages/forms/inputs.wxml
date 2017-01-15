@@ -1,0 +1,10 @@
+<view class="content">
+	<view class="list">
+		<view class="item item-input-inset">
+			<label class="item-input-wrapper">
+				<input type="text" placeholder="Email" />
+			</label>
+			<button class="button button-small">Submit</button>
+		</view>
+	</view>
+</view>

@@ -1,0 +1,5 @@
+<view class="bar bar-header">
+	<button class="button button-icon icon ion-navicon"></button>
+	<view class="h1 title">Header Buttons</view>
+	<button class="button button-clear button-positive">Edit</button>
+</view>

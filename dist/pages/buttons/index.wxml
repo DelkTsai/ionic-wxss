@@ -1,0 +1,8 @@
+<view class="page-content">
+	<view class="list">
+		<navigator url="{{ item.url }}" class="item item-icon-right" wx:for="{{ items }}" wx:key="">
+			{{ item.title }}
+			<text class="icon ion-ios-arrow-right"></text>
+		</navigator>
+	</view>
+</view>

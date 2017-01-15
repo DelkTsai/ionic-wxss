@@ -1,0 +1,47 @@
+<view class="content padding">
+	<view class="button-bar bar-light">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-stable">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-positive">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-calm">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-balanced">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-energized">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-assertive">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-royal">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+	<view class="button-bar bar-dark">
+		<button class="button">First</button>
+		<button class="button">Second</button>
+		<button class="button">Third</button>
+	</view>
+</view>

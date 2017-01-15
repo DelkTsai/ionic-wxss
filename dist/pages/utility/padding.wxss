@@ -1,0 +1,16 @@
+.padding-example {
+    position: relative;
+    margin: 50px auto;
+    max-width: 240px;
+    height: 240px;
+    background: #ccc;
+}
+
+.padding-example :first-child {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 140px;
+    height: 140px;
+    background: #4A87EE;
+}

@@ -1,0 +1,64 @@
+<view class="content">
+	<view class="list">
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#ddd" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#b2b2b2" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#387ef5" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#11c1f3" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#33cd5f" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#ef473a" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#ffc900" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#886aea" checked />
+			</label>
+		</view>
+		<view class="item item-toggle">
+			toggle
+			<label class="toggle toggle-positive">
+				<switch color="#444" checked />
+			</label>
+		</view>
+	</view>
+</view>
